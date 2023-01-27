@@ -11,6 +11,30 @@ Intelligence-driven computer network defense is necessary to address advanced pe
 By considering the threat component of risk and modeling the cost-benefit ratio for the aggressor, it is possible to establish information superiority and decrease the adversary’s likelihood of success with each intrusion attempt.
 
 
+# [Command Line Basics Revisited](https://terokarvinen.com/2020/command-line-basics-revisited)
+```
+1. ls - List the files in the current directory
+2. cd - Change the current working directory
+3. pwd - Print the current working directory
+4. mkdir - Create a new directory
+5. touch - Create a new file
+6. cp - Copy a file or directory
+7. mv - Move or rename a file or directory
+8. rm - Remove a file or directory
+9. cat - Display the contents of a file
+10. echo - Print a message to the terminal
+11. man - Display the manual for a command
+12. chmod - Change the permissions of a file or directory
+13. grep - Search for a string in a file or output
+14. find - Search for files in a directory hierarchy
+15. sort - Sort the lines of a file
+16. head - Display the first lines of a file
+17. tail - Display the last lines of a file
+18. diff - Compare the contents of two files
+19. tar - Create or extract a tar archive
+20. ssh username@server.com secure remote connect
+```
+
 # Become a hacker, step 0
 
 
