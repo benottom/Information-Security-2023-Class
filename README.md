@@ -1,5 +1,5 @@
 
-# PenTesting
-This repo is for my personal penetration testing playground.
+![BenOtto'playground](https://user-images.githubusercontent.com/45172166/215037778-90e23594-b981-4933-989d-e0643643ab03.jpg)
+# Information Security 2023 Class
+This repo is for my personal ethical hacking and penetration testing playground following [Tero Karvinen](https://terokarvinen.com)  .
 
-![Kilpailuta kuolinpesän tyhjennys - tavoita ilmaiseksi](https://user-images.githubusercontent.com/45172166/215036654-036b08b1-c587-455b-83d0-1719b507beee.jpg)
