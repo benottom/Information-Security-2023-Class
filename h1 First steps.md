@@ -58,6 +58,7 @@ I am familiar with Linux command line interface and server login (I use to manag
 ![Installation completed](https://user-images.githubusercontent.com/45172166/215209751-b7aea5b7-b17f-45d6-bf6e-7ecb67844a5c.png)
 
 
+As the Deblian installation is completed, now back to the Bandit oh-five challenges, and starting with Level 0 
 
 
 
