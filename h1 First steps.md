@@ -41,4 +41,9 @@ By considering the threat component of risk and modeling the cost-benefit ratio 
 First challenge starts with solving the [Over The Wire: Bandit](https://overthewire.org/wargames/bandit/) 
 > The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
 
+## Level 0
+> The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
+
+Familiar with Linux command line interface and server login (use to manage multiple servers way back) this task was simple. I was using a VM Ubuntu:
+
 
