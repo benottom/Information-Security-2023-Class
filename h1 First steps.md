@@ -44,6 +44,9 @@ First challenge starts with solving the [Over The Wire: Bandit](https://overthew
 ## Level 0
 > The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
 
-Familiar with Linux command line interface and server login (use to manage multiple servers way back) this task was simple. I was using a VM Ubuntu:
+I am familiar with Linux command line interface and server login (I use to manage multiple servers way back) this task was simple. But first I need to run the step (b) to run Linux commands (I am using Windows 10)
+
+## b) Install Debian 11-Bullsye [VM in VirtuaBox](https://terokarvinen.com/2021/install-debian-on-virtualbox/)
+
 
 
