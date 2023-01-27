@@ -46,7 +46,7 @@ First challenge starts with solving the [Over The Wire: Bandit](https://overthew
 
 I am familiar with Linux command line interface and server login (I use to manage multiple servers way back) this task was simple. But first I need to run the step (b) to run Linux commands (I am using Windows 10)
 
-## b) Install Debian 11-Bullsye [VM in VirtuaBox](https://terokarvinen.com/2021/install-debian-on-virtualbox/)
+## b) Install Debian 11-Bullsye [VM in VirtuaBox]![debian instal](https://user-images.githubusercontent.com/45172166/215195058-d9f4b577-b8f5-4f40-b384-bc99ef43f83e.png)
 
 
 
