@@ -50,5 +50,9 @@ I am familiar with Linux command line interface and server login (I use to manag
 
 ![debian instal](https://user-images.githubusercontent.com/45172166/215195058-d9f4b577-b8f5-4f40-b384-bc99ef43f83e.png)
 
+![start installation](https://user-images.githubusercontent.com/45172166/215200016-f939cd82-2d5e-41aa-902a-0f3b0862af57.png)
+
+
+
 
 
