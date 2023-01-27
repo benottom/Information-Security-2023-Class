@@ -55,6 +55,8 @@ I am familiar with Linux command line interface and server login (I use to manag
 ![start installation](https://user-images.githubusercontent.com/45172166/215207156-2f4527fb-dc7a-4e0c-970d-4c3bd4c40b98.png)
 
 
+![Installation completed](https://user-images.githubusercontent.com/45172166/215209751-b7aea5b7-b17f-45d6-bf6e-7ecb67844a5c.png)
+
 
 
 
