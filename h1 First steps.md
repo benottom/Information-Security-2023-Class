@@ -37,6 +37,8 @@ By considering the threat component of risk and modeling the cost-benefit ratio 
 # h1 First steps
 ## Become a hacker, step 0
 
-
+## a) Bandit oh-five: levels 0-4
 First challenge starts with solving the [Over The Wire: Bandit](https://overthewire.org/wargames/bandit/) 
 > The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.
+
+
