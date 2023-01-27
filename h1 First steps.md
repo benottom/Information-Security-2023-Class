@@ -34,8 +34,8 @@ By considering the threat component of risk and modeling the cost-benefit ratio 
 19. tar - Create or extract a tar archive
 20. ssh username@server.com secure remote connect
 ```
-
-# Become a hacker, step 0
+# h1 First steps
+## Become a hacker, step 0
 
 
 First challenge starts with solving the [Over The Wire: Bandit](https://overthewire.org/wargames/bandit/)
