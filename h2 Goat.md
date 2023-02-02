@@ -80,3 +80,11 @@ Starting with the instructor statement to keep it secure, compliant and moral. M
 * Best way to detect vulnerabilities is through source code review and automated testing of inputs.
 * Preventing injection requires keeping data separate from commands and queries and using positive input validation, interpreter-specific escape syntax, and safe APIs.
 * Use LIMIT and other SQL controls to prevent mass disclosure of records in case of SQL injection.
+* 
+# Darknet Diaries: EP 6: THE BEIRUT BANK JOB
+
+Jason E. Street is a security consultant who has spent almost 20 years working in Information Security (InfoSec). One of his favorite things to do is what he calls "Security Awareness Engagement" in which he is hired by companies to test the physical security of their premises. The goal of these engagements is not to steal cash but to test if a person could get access to the computer systems. He is not trying to perform a red team engagement or pen-testing but to raise awareness among employees about security measures.
+
+Jason was hired by a bank in Beirut to perform a security awareness engagement. He arrived in Beirut, the capital city of Lebanon, and headed to the bank headquarters, which was a tall building with 30 stories. The ground floor had a bank branch while the other floors were offices. Jason went to a conference room on the 20th floor and had a meeting with a man who was not impressed with him.
+
+Jason is known for recording all his engagements with his wrist camera, button camera on his jacket, or closed-captioned cameras. He has even been filmed by National Geographic. He is open to getting caught during these engagements because the goal is to raise awareness about security measures. He provides photos and videos as evidence of his engagements, and the stories have been fact-checked.
