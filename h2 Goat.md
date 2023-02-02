@@ -3,6 +3,37 @@ Starting with the instructor statement to keep it secure, compliant and moral. M
 # OWASP: [OWASP 10 2021](https://owasp.org/Top10/)
 
 ## A06:[2021 - Vulnerable and Outdated Components](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/)
+### Overview
+* Vulnerable Components are a known issue that organizations struggle to test and assess risk for
+* No Common Vulnerability and Exposures (CVEs) are mapped to the included CWEs, a default exploits/impact weight of 5.0 is used
+* Notable CWEs: CWE-1104: Use of Unmaintained Third-Party Components, CWEs from Top 10 2013 and 2017
+
+### You are likely vulnerable:
+* If you don't know the versions of all components used (client-side and server-side)
+* If software is unsupported, out of date, or vulnerable
+* If you don't regularly scan for vulnerabilities and subscribe to security bulletins
+* If you don't fix/upgrade platform, frameworks, dependencies in a timely fashion
+* If developers don't test the compatibility of updated libraries
+* If you don't secure the components' configurations
+
+### How to prevent:
+* Have a patch management process in place
+* Continuously inventory and monitor versions of components and dependencies
+* Obtain components from official sources over secure links
+* Monitor for unmaintained or unpatched components
+* Have an ongoing plan for monitoring, triaging, and applying updates/config changes
+
+### Example Attack Scenarios:
+* Flaws in components can result in serious impact
+* Some example exploitable component vulnerabilities are: CVE-2017-5638, Heartbleed vulnerability
+* Automated tools can help attackers find unpatched systems
+
+### References:
+* OWASP Application Security Verification Standard, OWASP Dependency Check, OWASP Testing Guide, OWASP Virtual Patching Best Practices
+* National Vulnerability Database (NVD), Retire.js, Ruby Libraries Security Advisory Database
+* MITRE Common Vulnerabilities and Exposures (CVE) search
+* List of Mapped CWEs: CWE-937, CWE-1035, CWE-1104
+
 
 ## A05:[2021 - Security Misconfiguration](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
 
