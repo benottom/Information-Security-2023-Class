@@ -88,3 +88,7 @@ Jason E. Street is a security consultant who has spent almost 20 years working i
 Jason was hired by a bank in Beirut to perform a security awareness engagement. He arrived in Beirut, the capital city of Lebanon, and headed to the bank headquarters, which was a tall building with 30 stories. The ground floor had a bank branch while the other floors were offices. Jason went to a conference room on the 20th floor and had a meeting with a man who was not impressed with him.
 
 Jason is known for recording all his engagements with his wrist camera, button camera on his jacket, or closed-captioned cameras. He has even been filmed by National Geographic. He is open to getting caught during these engagements because the goal is to raise awareness about security measures. He provides photos and videos as evidence of his engagements, and the stories have been fact-checked.
+
+# Example of Common Vulnerability and Exposure (CVE): 
+Drupal core - Critical - Multiple vulnerabilities  [VE-2022-39261](htps://nvd.nist.gov/vuln/detail/CVE-2022-39261)
+I have chosen to address this vulnerability as an advocate for the open source content management framework (CMF), Drupal. A critical vulnerability in the core of Drupal has significant ramifications, as many high-quality websites rely on Drupal as their CMS.
