@@ -81,7 +81,7 @@ Starting with the instructor statement to keep it secure, compliant and moral. M
 * Preventing injection requires keeping data separate from commands and queries and using positive input validation, interpreter-specific escape syntax, and safe APIs.
 * Use LIMIT and other SQL controls to prevent mass disclosure of records in case of SQL injection.
 * 
-# Darknet Diaries: EP 6: THE BEIRUT BANK JOB
+# Darknet Diaries:[EP 6: THE BEIRUT BANK JOB](https://darknetdiaries.com/episode/6/)
 
 Jason E. Street is a security consultant who has spent almost 20 years working in Information Security (InfoSec). One of his favorite things to do is what he calls "Security Awareness Engagement" in which he is hired by companies to test the physical security of their premises. The goal of these engagements is not to steal cash but to test if a person could get access to the computer systems. He is not trying to perform a red team engagement or pen-testing but to raise awareness among employees about security measures.
 
