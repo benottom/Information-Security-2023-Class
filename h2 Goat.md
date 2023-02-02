@@ -6,6 +6,40 @@ Starting with the instructor statement to keep it secure, compliant and moral. M
 
 ## A05:[2021 - Security Misconfiguration](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
 
+### Overview:
+
+* 90% of applications tested for misconfiguration with average incidence rate of 4%
+* 208k occurrences of Common Weakness Enumeration (CWE) risk category
+* Notable CWEs: CWE-16 Configuration, CWE-611 Improper Restriction of XML External Entity Reference
+
+### Description:
+
+* Vulnerability in the application due to:
+* Missing security hardening or incorrect config of cloud services
+* Unnecessary features enabled or installed
+* Default accounts and passwords unchanged
+* Error handling reveals sensitive info
+* Outdated or vulnerable software
+* Insecure settings in application servers, frameworks, libraries, databases
+* Server not sending security headers or directives
+
+### Prevention:
+
+* Implement secure installation process
+* Repeatable hardening process
+* Minimal platform without unnecessary features
+* Review and update security configurations
+* Segmented application architecture
+* Send security directives to clients
+* Automated process to verify configurations
+
+### Example Attack Scenarios:
+
+* Attacker uses known security flaws in sample applications to compromise server
+* Attacker lists directories and finds access control flaw after reverse-engineering code
+* Attacker gains access to sensitive info from detailed error messages
+* Sensitive data in cloud storage is accessed due to open sharing permissions.
+
 ## A03:[2021 - Injection](https://owasp.org/Top10/A03_2021-Injection/)
 * Injection vulnerabilities rank 3rd in frequency.
 * 94% of applications tested for injection with max rate of 19% and avg rate of 3%, with 274k occurrences.
