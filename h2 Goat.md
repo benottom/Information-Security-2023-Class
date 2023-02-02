@@ -92,3 +92,6 @@ Jason is known for recording all his engagements with his wrist camera, button c
 ## Example of Common Vulnerability and Exposure (CVE): 
 Drupal core - Critical - Multiple vulnerabilities [CVE-2022-39261](nvd.nist.gov/vuln/detail/CVE-2022-39261/)
 I have chosen to address this vulnerability as an advocate for the open source content management framework (CMF), Drupal. A critical vulnerability in the core of Drupal has significant ramifications, as many high-quality websites rely on Drupal as their CMS.
+
+# a) Sequel - [Solve SQLZoo:](https://sqlzoo.net/wiki/SQL_Tutorial)
+
